@@ -27,6 +27,6 @@
         echo "</tr>";
     }
     echo "</table>";
-?>
+    ?>
 </body>
 </html>
